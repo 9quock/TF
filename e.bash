@@ -2,6 +2,6 @@
 
 while :
 do
-  printf "LOL"
   sleep 1
+  mkdir G
 done
